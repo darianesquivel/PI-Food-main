@@ -9,3 +9,13 @@ export default function Card({ title, image, diet }) {
     </div>
   );
 }
+
+// gluten free
+// dairy free
+// lacto ovo vegetarian
+// vegan
+// paleolithic
+// primal
+// pescatarian
+// fodmap friendly
+// whole 30
